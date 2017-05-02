@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>My Oracle Public Cloud Demo</title>
+<title>Red Oracle Public Cloud Demo</title>
 
 </head>
 <body>
