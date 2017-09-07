@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="css/cloud3.css">
 
-<title>BLUE Oracle Public Cloud Demo</title>
+<title>WILD Oracle Public Cloud Demo</title>
 
 </head>
 <body>
